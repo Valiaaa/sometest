@@ -1,0 +1,31 @@
+* {
+    background-color: bisque;
+    font-family: filmotype-maxwell,sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+h1 {
+    color:pink;
+    padding: 60px;
+}
+h2 {
+    color: rgb(154, 84, 182);
+    text-align: center;
+    border: 5px dotted blue;
+    width: 200px;
+    padding: 40px;
+    margin: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.special {
+    color: skyblue;
+}
+
+.owo {
+    font-size: 50px;
+}
+
+p {
+    margin-bottom: 2em;
+}
