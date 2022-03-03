@@ -4,13 +4,13 @@
     font-family: 'Source Code Pro', monospace;
     font-weight: 400;
     font-style: normal;
-    margin-top: 8px;
-    margin-left: 6px;
+    margin-left: 10px;
 }
 h1 {
     font-size: 20px;
     font-weight: 600;
     color:rgb(238, 115, 156);
+    margin-top: 30px;
 }
 h2 {
     font-size: 16px;
